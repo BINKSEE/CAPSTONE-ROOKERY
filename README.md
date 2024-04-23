@@ -31,7 +31,7 @@ Contributions are welcome! If you'd like to contribute to Rookery, feel free to 
 
 ## Credits
 
-Rookery is developed and maintained by [Your Name].
+Rookery is developed and maintained by Jake Turner.
 
 ## License
 
