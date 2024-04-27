@@ -31,8 +31,9 @@ You can play Rookery on the itch.io platform here!: [itch.io](https://binksee.it
 
 ## Folder Structure
 
-- **Assets**: Contains all the game assets including scripts, prefabs, and other resources.
-- **Scenes**: Houses the main scene of the game.
+- **Build**: Contains all the game assets including scripts, prefabs, and other resources.
+- **Docs**: Contains documents, diagrams, videos, and presentations as they relate to the game.
+- **Src**: Is the main hub for the source code and scripts
 
 ## Contributing
 
