@@ -1,3 +1,5 @@
+[![VSCode](https://img.shields.io/badge/VSCode-Editor-blue.svg?style=for-readme)](https://code.visualstudio.com/)
+[![C#](https://img.shields.io/badge/C%23-Language-blue.svg?style=for-readme)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 # Rookery - A Chess Game in Unity
 
 Welcome to Rookery, a chess game built in Unity using C#. This project aims to provide a comprehensive chess-playing experience, complete with all the standard rules and special moves such as pawn promotion, en passant, and castling.
@@ -19,6 +21,9 @@ To play Rookery, simply follow these steps:
 4. Hit play to start the game.
 5. Use the mouse to interact with the chessboard and make your moves.
 6. Enjoy the game!
+
+## PLAY ROOKERY ONLINE WITH ITCH.IO!
+you can play Rookery on the itch.io platform here: [itch.io](https://binksee.itch.io/rookery)
 
 ## Folder Structure
 
