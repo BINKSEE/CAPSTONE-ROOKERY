@@ -23,7 +23,7 @@ To play Rookery, simply follow these steps:
 6. Enjoy the game!
 
 ## PLAY ROOKERY ONLINE WITH ITCH.IO!
-you can play Rookery on the itch.io platform here: [itch.io](https://binksee.itch.io/rookery)
+You can play Rookery on the itch.io platform here!: [itch.io](https://binksee.itch.io/rookery)
 
 ## Folder Structure
 
