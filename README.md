@@ -20,7 +20,8 @@ To play Rookery, simply follow these steps:
 3. Navigate to the main scene.
 4. Hit play to start the game.
 5. Use the mouse to interact with the chessboard and make your moves.
-6. Enjoy the game!
+6. Use the "P" key to pause the game.
+7. Enjoy the game!
 
 ## PLAY ROOKERY ONLINE WITH ITCH.IO!
 You can play Rookery on the itch.io platform here!: [itch.io](https://binksee.itch.io/rookery)
