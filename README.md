@@ -23,6 +23,9 @@ To play Rookery, simply follow these steps:
 6. Use the "P" key to pause the game.
 7. Enjoy the game!
 
+## Before you begin... a friendly heads-up! ✨
+On rare occasions, you may encounter a visual glitch where materials from prefabs appear stretched within the game. This is a minor hiccup, and a simple reload will solve the issue.
+
 ## PLAY ROOKERY ONLINE WITH ITCH.IO!
 You can play Rookery on the itch.io platform here!: [itch.io](https://binksee.itch.io/rookery)
 
