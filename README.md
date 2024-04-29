@@ -44,6 +44,7 @@ Contributions are welcome! If you'd like to contribute to Rookery, feel free to 
 ## Credits
 
 Rookery is developed and maintained by Jake Turner.
+A PowerPoint Presentation over the project is available in the Docs folder.
 
 ## License
 
