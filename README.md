@@ -45,6 +45,8 @@ Contributions are welcome! If you'd like to contribute to Rookery, feel free to 
 
 Rookery is developed and maintained by Jake Turner.
 A PowerPoint Presentation over the project is available in the Docs folder.
+This chess game uses code from a tutorial by "Mercenary Camp", available on youtube.
+[youtube.com](https://www.youtube.com/watch?v=qVhG6ZWqD-o&list=PLmcbjnHce7SeAUFouc3X9zqXxiPbCz8Zp)
 
 ## License
 
